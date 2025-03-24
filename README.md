@@ -1,6 +1,6 @@
 # ESP32 Environmental Sensor PCB
 
-![Project Banner](assets/banner.png)  
+![Project Banner](1742200638724.jpg)  
 *A custom PCB for comprehensive environmental monitoring*
 
 ## Features
